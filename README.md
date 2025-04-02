@@ -1,5 +1,3 @@
-![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/hangts/gaia-sdk-js?utm_source=oss&utm_medium=github&utm_campaign=hangts%2Fgaia-sdk-js&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
-
 # gaia-sdk-js
 JavaScript Library for Cosmos Hub (Gaia)
 
